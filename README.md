@@ -13,4 +13,4 @@
    
 **Output**
 
-    simple interest = p\*t\*r
+    simple interest = p$N\times N$t$N\times N$r
